@@ -7,7 +7,7 @@
 
 body {
     background-color: aqua;
-    background-image: url(/assets/img/fundo.jpg);
+    background-image: url('img/fundo.jpg');
     background-position: top;
     background-size: cover;
     display: flex;
